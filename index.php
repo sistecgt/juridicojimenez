@@ -59,7 +59,7 @@
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
             	<span>Experience</span> . <span>Innovation</span> . <span>Excellence</span>
             </h1>
-            <p><a href="#" class="btn btn-primary py-3 px-4">Request a Free Consultation</a></p>
+            <p><a href="#" class="btn btn-primary py-3 px-4">Consulta Gratis</a></p>
           </div>
         </div>
       </div>
