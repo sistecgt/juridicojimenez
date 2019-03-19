@@ -71,28 +71,28 @@
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-auction"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Get Your Legal Advice</a></h3>
+              <h3 class="heading mb-3"><a href="#">Obtenga su asesoramiento legal</a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Work with Expert Lawyers</a></h3>
+              <h3 class="heading mb-3"><a href="#">Trabajamos con abogados Expertos</a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-money"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Have Great Discounted Rates</a></h3>
+              <h3 class="heading mb-3"><a href="#">Precios acorde el caso </a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="ion-ios-help-circle-outline"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Review Your Case Documents</a></h3>
+              <h3 class="heading mb-3"><a href="#">Revise sus procesos legales</a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
