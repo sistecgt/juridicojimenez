@@ -31,19 +31,19 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Whisper</a>
+	      <a class="navbar-brand" href="index.html">Juridico Jiménez</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">About Us</a></li>
-	          <li class="nav-item"><a href="practice-areas.html" class="nav-link">Practice Areas</a></li>
-	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Attorneys</a></li>
+	          <li class="nav-item active"><a href="index.html" class="nav-link">Principio</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">Sobre Nosotros</a></li>
+	          <li class="nav-item"><a href="practice-areas.html" class="nav-link">Areas de Práctica</a></li>
+	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
 	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contacto</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -55,9 +55,9 @@
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">We are here to help!</h2>
+          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">En que te podes ayudar!</h2>
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
-            	<span>Experience</span> . <span>Innovation</span> . <span>Excellence</span>
+            	<span>Experiencia</span> . <span>Inovación</span> . <span>Excelencia</span>
             </h1>
             <p><a href="#" class="btn btn-primary py-3 px-4">Consulta Gratis</a></p>
           </div>
