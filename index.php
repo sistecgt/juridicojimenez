@@ -55,7 +55,7 @@
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">En que te podes ayudar!</h2>
+          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">¡En que te podemos ayudar! </h2>
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
             	<span>Experiencia</span> . <span>Inovación</span> . <span>Excelencia</span>
             </h1>
