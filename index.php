@@ -604,8 +604,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Suscribite a nuestro boletín de noticias</h2>
-              <p>Recibiras noticiaas sobre ofertas y más</p>
+              <h2>Suscribite a nuestro boletín informativo</h2>
+              <p>Recibiras notificaciones sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
@@ -654,7 +654,7 @@
           </div>
           <div class="col-md">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Horario de trabajo</h2>
+              <h2 class="ftco-heading-2">Horario de atención</h2>
               <div class="opening-hours">
 <!--              	<h4>Días de trabajo:</h4>-->
               	<p class="pl-3">
