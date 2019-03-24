@@ -40,7 +40,7 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
-	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Areas de práctica</a></li>
+	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Áreas de práctica</a></li>
 	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>
 	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
