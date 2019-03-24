@@ -628,7 +628,7 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Jurídico Jiménez</h2>
-              <p>Actual de manera profesional, ética y confidencial.</p>
+              <p>Actuar de manera profesional, ética y confidencial.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
