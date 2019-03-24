@@ -38,12 +38,12 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
-	          <li class="nav-item active"><a href="about.html" class="nav-link">Acerda de nosotros</a></li>
-	          <li class="nav-item"><a href="practice-areas.html" class="nav-link">Áreas de práctica</a></li>
-	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contáctanos</a></li>
+	          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
+	          <li class="nav-item active"><a href="about.php" class="nav-link">Acerda de nosotros</a></li>
+	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Áreas de práctica</a></li>
+	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>
+	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -56,7 +56,7 @@
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
             <h1 class="mb-3 bread">Acerda de nosotros</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Inicio <i class="ion-ios-arrow-forward"></i></a></span> <span>Acerca de nosotros <i class="ion-ios-arrow-forward"></i></span></p>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Inicio <i class="ion-ios-arrow-forward"></i></a></span> <span>Acerca de nosotros <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -136,7 +136,7 @@
       <div class="container mt-0">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <h2 class="mb-4">We Provide Legal Help</h2>
+            <h2 class="mb-4">Brindamos asesoría legal</h2>
           </div>
         </div>
         <div class="row no-gutters d-flex">
