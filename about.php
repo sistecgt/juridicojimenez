@@ -31,7 +31,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Jurídico Jiménez</a>
+	      <a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -180,7 +180,7 @@
     				<div class="overlay"></div>
     				<div class="desc text-center">
     					<div class="icon"><span class="flaticon-auction"></span></div>
-    					<h1><a href="index.html">Whisper <br><span>Law Firm Website</span></a></h1>
+    					<h1><a href="index.php">Whisper <br><span>Law Firm Website</span></a></h1>
     				</div>
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
@@ -335,13 +335,13 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Suscribite a nuestro boletín informativo</h2>
+             <h2>Suscribite a nuestro boletín informativo</h2>
               <p>Recibiras notificaciones sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
                     <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
+                      <input type="text" class="form-control" placeholder="Ingrese correo electrónico">
                       <input type="submit" value="Suscribirse" class="submit px-3">
                     </div>
                   </form>

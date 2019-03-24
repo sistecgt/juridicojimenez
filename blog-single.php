@@ -31,7 +31,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Jurídico Jiménez</a>
+	      <a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -308,7 +308,7 @@
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
                     <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
+                      <input type="text" class="form-control" placeholder="Ingrese correo electrónico">
                       <input type="submit" value="Suscribirse" class="submit px-3">
                     </div>
                   </form>
