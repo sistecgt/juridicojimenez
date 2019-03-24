@@ -627,7 +627,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Whisper</h2>
+              <h2 class="ftco-heading-2">Jurídico Jiménez</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -654,18 +654,18 @@
           </div>
           <div class="col-md">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Business Hours</h2>
+              <h2 class="ftco-heading-2">Horario de trabajo</h2>
               <div class="opening-hours">
-              	<h4>Opening Days:</h4>
+<!--              	<h4>Días de trabajo:</h4>-->
               	<p class="pl-3">
-              		<span>Monday – Friday : 9am to 20 pm</span>
-              		<span>Saturday : 9am to 17 pm</span>
+              		<span>Lunes – Viernes : 9 am to 2 pm</span>
+              		<span>Sábados : 9 am to 2 pm</span>
               	</p>
-              	<h4>Vacations:</h4>
+<!--              	<h4>Vacations:</h4>
               	<p class="pl-3">
               		<span>All Sunday Days</span>
               		<span>All Official Holidays</span>
-              	</p>
+              	</p>-->
               </div>
             </div>
           </div>
@@ -676,7 +676,7 @@
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@juridicojimenez.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
