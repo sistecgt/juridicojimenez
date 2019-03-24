@@ -38,12 +38,12 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Inicio</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">Acerca de Nosotros</a></li>
-	          <li class="nav-item"><a href="practice-areas.html" class="nav-link">Areas de Práctica</a></li>
-	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contáctanos</a></li>
+	          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
+	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
+	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Areas de práctica</a></li>
+	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>
+	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -78,7 +78,7 @@
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Trabajamos con abogados Expertos</a></h3>
+              <h3 class="heading mb-3"><a href="#">Trabajamos con abogados expertos</a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
@@ -604,8 +604,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Subcribe to our Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+              <h2>Suscribite a nuestro boletín de noticias</h2>
+              <p>Recibiras noticiaas sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
@@ -628,7 +628,7 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Jurídico Jiménez</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p>Actual de manera profesional, ética y confidencial.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -671,7 +671,7 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">¿Necesita más información?</h2>
+            	<h2 class="ftco-heading-2">Más información</h2>
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
