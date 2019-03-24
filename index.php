@@ -38,7 +38,7 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Inivio</a></li>
+	          <li class="nav-item active"><a href="index.html" class="nav-link">Inicio</a></li>
 	          <li class="nav-item"><a href="about.html" class="nav-link">Acerca de Nosotros</a></li>
 	          <li class="nav-item"><a href="practice-areas.html" class="nav-link">Areas de Práctica</a></li>
 	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
@@ -85,7 +85,7 @@
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-money"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Precios acorde el caso </a></h3>
+              <h3 class="heading mb-3"><a href="#">Precios acorde al caso </a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
