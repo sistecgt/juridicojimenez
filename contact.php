@@ -123,8 +123,8 @@
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
                     <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
-                      <input type="submit" value="Subscribe" class="submit px-3">
+                      <input type="text" class="form-control" placeholder="Ingrese correo electrónico">
+                      <input type="submit" value="Suscribirse" class="submit px-3">
                     </div>
                   </form>
                 </div>
