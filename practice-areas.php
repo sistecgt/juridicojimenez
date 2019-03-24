@@ -31,17 +31,17 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
+	      <a class="navbar-brand" href="index.php">Rony Alexander Jiménez Guerrero</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
-	          <li class="nav-item"><a href="about.php" class="nav-link">Acerda de nosotros</a></li>
-	          <li class="nav-item active"><a href="practice-areas.php" class="nav-link">Áreas de práctica</a></li>
-	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>
+	          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio </a></li>
+	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
+	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Servicios Profesionales</a></li>
+	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Documentos</a></li>
 	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
@@ -55,8 +55,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Practice Areas</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Inicio <i class="ion-ios-arrow-forward"></i></a></span> <span>Áreas de práctica <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">Servicios Profesionales</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Inicio <i class="ion-ios-arrow-forward"></i></a></span> <span>Servicios Profesionales <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -65,99 +65,95 @@
    	
     <section class="ftco-section bg-light">
     	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 text-center heading-section ftco-animate">
+          	<span class="subheading">Servicios Profesionales</span>
+            <h2 class="mb-4">Servicios Profesionales</h2>
+          </div>
+        </div>
         <div class="row d-flex justify-content-center">
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-family"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Family Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Familia</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-auction"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Business Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Derecho Procesal Penal</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-shield"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Insurance Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Notariado</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-handcuffs"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Criminal Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Violencia Contra La Muer</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-house"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Property Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Derecho Mercantil</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-employee"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Employment Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Derecho Laboral</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-fire"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Fire Accident</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Accidentes</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-money"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Financial Law</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Derecho Tributario</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-medicine"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Drug Offenses</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Derecho Migratorio</a></h3>
         		</div>
         	</div>
-        	<div class="col-md-4 col-lg-3 text-center">
-        		<div class="practice-area bg-white ftco-animate p-4">
+        	<div class="col-md-3 col-lg-2 text-center">
+        		<div class="practice-area ftco-animate">
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-handcuffs"></span>
         			</div>
-        			<h3 class="mb-3"><a href="practice-single.php">Sexual Offenses</a></h3>
-        			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        			<h3><a href="#">Derecho Civil</a></h3>
         		</div>
-        	</div>
+        	</div> 
         </div>
-        <div class="row mt-5">
+    	  <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
               <ul>
@@ -172,7 +168,8 @@
             </div>
           </div>
         </div>
-    	</div>
+        </div>
+        
     </section>
 
     <section class="ftco-consultation">
@@ -186,7 +183,7 @@
     				</div>
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
-    				<h3 class="mb-4 font-weight-bold">Consulta gratis</h3>
+    				<h3 class="mb-4 font-weight-bold">Consultas</h3>
     				<form action="#">
 	            <div class="form-group">
 	              <input type="text" class="form-control" placeholder="Nombre">
@@ -233,7 +230,7 @@
       </div>
     </section>
 
-    <footer class="ftco-footer ftco-bg-dark ftco-section">
+     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
@@ -249,16 +246,16 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Practice Areas</h2>
+              <h2 class="ftco-heading-2">Servicios Profesionales</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Family Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Business Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Insurance Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Criminal Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Drug Offenses</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Fire Accident</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Employment Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Property Law</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Familia</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Procesal Penal</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Notariado</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Violencia Contra la mujer</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Mercantil</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Laboral</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Accidentes</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Migratorio</a></li>
 
               </ul>
             </div>
@@ -267,10 +264,10 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Horario de atención</h2>
               <div class="opening-hours">
-<!--              	<h4>Opening Days:</h4>-->
+<!--              	<h4>Días de trabajo:</h4>-->
               	<p class="pl-3">
-              		<span>Lunes – Viernes : 9 am to 20 pm</span>
-              		<span>Sábado : 9 am to 17 pm</span>
+              		<span>Lunes – Viernes : 8 am to 6 pm</span>
+              		<span>Sábados : 8 am to 2 pm</span>
               	</p>
 <!--              	<h4>Vacations:</h4>
               	<p class="pl-3">
@@ -285,8 +282,8 @@
             	<h2 class="ftco-heading-2">Más información</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5131-4546, 5945-5989, 7832-3102</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@juridicojimenez.com</span></a></li>
 	              </ul>
 	            </div>
@@ -297,8 +294,8 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+ <!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://ssistecgt.com/"</a>
+  Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
       </div>

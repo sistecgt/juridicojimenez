@@ -55,11 +55,11 @@
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">¡En que te podemos ayudar! </h2>
+          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">¡Estamos para servirle! </h2>
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
             	<span>Experiencia</span> . <span>Inovación</span> . <span>Excelencia</span>
             </h1>
-            <p><a href="#" class="btn btn-primary py-3 px-4">Consulta Gratis</a></p>
+            <p><a href="#consulta" class="btn btn-primary py-3 px-4">Consulta Gratis</a></p>
           </div>
         </div>
       </div>
@@ -376,7 +376,7 @@
     	<div class="container-fluid">
     		<div class="row d-md-flex">
     			<div class="half d-flex justify-content-center align-items-center img" style="background-image: url(images/bg_1.jpg);">
-    				<div class="overlay"></div>
+    				<div class="overlay" id="consulta"></div>
     				<div class="desc text-center">
     					<div class="icon"><span class="flaticon-auction"></span></div>
     					<h1><a href="index.php">Jurídico Jiménez <br><span>Actuar de manera profesional, ética y confidencial</span></a></h1>
