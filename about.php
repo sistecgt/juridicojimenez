@@ -180,26 +180,26 @@
     				<div class="overlay"></div>
     				<div class="desc text-center">
     					<div class="icon"><span class="flaticon-auction"></span></div>
-    					<h1><a href="index.php">Whisper <br><span>Law Firm Website</span></a></h1>
+    					<h1><a href="index.php">Jurídico Jiménez <br><span>Actuar de manera profesional, ética y confidencial</span></a></h1>
     				</div>
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
-    				<h3 class="mb-4">Free Consultation</h3>
+    				<h3 class="mb-4">Consulta gratis</h3>
     				<form action="#">
 	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Your Name">
+	              <input type="text" class="form-control" placeholder="Nombre">
 	            </div>
 	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Your Email">
+	              <input type="text" class="form-control" placeholder="Correo electrónico">
 	            </div>
 	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Subject">
+	              <input type="text" class="form-control" placeholder="Asunto">
 	            </div>
 	            <div class="form-group">
-	              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+	              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Mensaje"></textarea>
 	            </div>
 	            <div class="form-group">
-	              <input type="submit" value="Send message" class="btn btn-primary">
+	              <input type="submit" value="Enviar" class="btn btn-primary">
 	            </div>
 	          </form>
     			</div>
