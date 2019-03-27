@@ -31,17 +31,17 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
+	      <a class="navbar-brand" href="index.php">Rony Alexander Jiménez Guerrero</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
+	          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio </a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
-	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Áreas de práctica</a></li>
-	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>
+	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Servicios Profesionales</a></li>
+	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Documentos</a></li>
 	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
@@ -59,7 +59,7 @@
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
             	<span>Experiencia</span> . <span>Inovación</span> . <span>Excelencia</span>
             </h1>
-            <p><a href="#consulta" class="btn btn-primary py-3 px-4">Consulta Gratis</a></p>
+            <p><a href="#consulta" class="btn btn-primary py-3 px-4">Consultas</a></p>
           </div>
         </div>
       </div>
@@ -71,14 +71,14 @@
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-auction"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Obtenga su asesoramiento legal</a></h3>
+              <h3 class="heading mb-3"><a href="#">Consultas</a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="#">Trabajamos con abogados expertos</a></h3>
+              <h3 class="heading mb-3"><a href="#">Corporación Jiménez </a></h3>
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
             </div>
           </div>
@@ -113,8 +113,8 @@
     			<div class="col-md-6 px-5 py-5">
     				<div class="row justify-content-start pt-3 pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">Fun Facts</span>
-		            <h2 class="mb-4">Whisper Lawfirm Stablished Since 1990</h2>
+		          	<span class="subheading">Pregutnas Frecuentes</span>
+		            <h2 class="mb-4">Corporación Jiménez </h2>
 		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 		          </div>
 		        </div>
@@ -126,7 +126,7 @@
 		              		<span class="flaticon-lawyer"></span>
 		              	</div>
 		                <strong class="number" data-number="500">0</strong>
-		                <span>Qualified Lawyers</span>
+		                <span>Abogados Expertos</span>
 		              </div>
 		            </div>
 		          </div>
@@ -137,7 +137,7 @@
 		              		<span class="flaticon-handshake"></span>
 		              	</div>
 		                <strong class="number" data-number="2000">0</strong>
-		                <span>Trusted Clients</span>
+		                <span>Clientes de Confianza</span>
 		              </div>
 		            </div>
 		          </div>
@@ -148,7 +148,7 @@
 		              		<span class="ion-ios-checkbox-outline"></span>
 		              	</div>
 		                <strong class="number" data-number="1500">0</strong>
-		                <span>Successful Cases</span>
+		                <span>Casos Resueltos</span>
 		              </div>
 		            </div>
 		          </div>
@@ -159,7 +159,7 @@
 		              		<span class="flaticon-medal"></span>
 		              	</div>
 		                <strong class="number" data-number="100">0</strong>
-		                <span>Honors &amp; Awards</span>
+		                <span>Titulos </span>
 		              </div>
 		            </div>
 		          </div>
@@ -173,8 +173,8 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate">
-          	<span class="subheading">Practice Areas</span>
-            <h2 class="mb-4">Practice Areas</h2>
+          	<span class="subheading">Servicios Profesionales</span>
+            <h2 class="mb-4">Servicios Profesionales</h2>
           </div>
         </div>
         <div class="row d-flex justify-content-center">
@@ -183,7 +183,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-family"></span>
         			</div>
-        			<h3><a href="#">Family Law</a></h3>
+        			<h3><a href="#">Familia</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -191,7 +191,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-auction"></span>
         			</div>
-        			<h3><a href="#">Business Law</a></h3>
+        			<h3><a href="#">Derecho Procesal Penal</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -199,7 +199,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-shield"></span>
         			</div>
-        			<h3><a href="#">Insurance Law</a></h3>
+        			<h3><a href="#">Notariado</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -207,7 +207,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-handcuffs"></span>
         			</div>
-        			<h3><a href="#">Criminal Law</a></h3>
+        			<h3><a href="#">Violencia Contra La Muer</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -215,7 +215,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-house"></span>
         			</div>
-        			<h3><a href="#">Property Law</a></h3>
+        			<h3><a href="#">Derecho Mercantil</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -223,7 +223,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-employee"></span>
         			</div>
-        			<h3><a href="#">Employment Law</a></h3>
+        			<h3><a href="#">Derecho Laboral</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -231,7 +231,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-fire"></span>
         			</div>
-        			<h3><a href="#">Fire Accident</a></h3>
+        			<h3><a href="#">Accidentes</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -239,7 +239,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-money"></span>
         			</div>
-        			<h3><a href="#">Financial Law</a></h3>
+        			<h3><a href="#">Derecho Tributario</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -247,7 +247,7 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-medicine"></span>
         			</div>
-        			<h3><a href="#">Drug Offenses</a></h3>
+        			<h3><a href="#">Derecho Migratorio</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -255,9 +255,9 @@
         			<div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-handcuffs"></span>
         			</div>
-        			<h3><a href="#">Sexual Offenses</a></h3>
+        			<h3><a href="#">Derecho Civil</a></h3>
         		</div>
-        	</div>
+        	</div> 
         </div>
     	</div>
     </section>
@@ -266,8 +266,8 @@
     	<div class="container-fluid">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-          	<span class="subheading">Our Attorney</span>
-            <h2 class="mb-4">Our Legal Attorneys</h2>
+          	<span class="subheading">Nuestros Profesionales </span>
+            <h2 class="mb-4">Nuestros Abogados</h2>
           </div>
         </div>
         <div class="row">
@@ -383,7 +383,7 @@
     				</div>
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
-    				<h3 class="mb-4">Consulta gratis</h3>
+    				<h3 class="mb-4">Consultas</h3>
     				<form action="#">
 	            <div class="form-group">
 	              <input type="text" class="form-control" placeholder="Nombre">
@@ -410,8 +410,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-          	<span class="subheading">Testimonial</span>
-            <h2 class="mb-4">Happy Clients</h2>
+          	<span class="subheading">Testimonios</span>
+            <h2 class="mb-4">Clientes Felices</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -497,8 +497,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">Our Blog</span>
-            <h2>Recent Blog</h2>
+          	<span class="subheading">Nuestro Blog</span>
+            <h2>Blogs Recientes</h2>
           </div>
         </div>
         <div class="row d-flex">
@@ -638,16 +638,16 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Practice Areas</h2>
+              <h2 class="ftco-heading-2">Servicios Profesionales</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Family Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Business Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Insurance Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Criminal Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Drug Offenses</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Fire Accident</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Employment Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Property Law</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Familia</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Procesal Penal</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Notariado</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Violencia Contra la mujer</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Mercantil</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Laboral</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Accidentes</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Derecho Migratorio</a></li>
 
               </ul>
             </div>
@@ -658,8 +658,8 @@
               <div class="opening-hours">
 <!--              	<h4>Días de trabajo:</h4>-->
               	<p class="pl-3">
-              		<span>Lunes – Viernes : 9 am to 2 pm</span>
-              		<span>Sábados : 9 am to 2 pm</span>
+              		<span>Lunes – Viernes : 8 am to 6 pm</span>
+              		<span>Sábados : 8 am to 2 pm</span>
               	</p>
 <!--              	<h4>Vacations:</h4>
               	<p class="pl-3">
@@ -674,8 +674,8 @@
             	<h2 class="ftco-heading-2">Más información</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5131-4546, 5945-5989, 7832-3102</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@juridicojimenez.com</span></a></li>
 	              </ul>
 	            </div>
@@ -686,8 +686,8 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+ <!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://ssistecgt.com/"</a>
+  Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
       </div>
