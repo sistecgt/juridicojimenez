@@ -71,10 +71,13 @@
           </div>
           <div class="w-100"></div>
           <div class="col-md-3">
-            <p><span>Dirección:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+            <p><span>Dirección:</span> Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</p>
           </div>
           <div class="col-md-3">
-            <p><span>Teléfono:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+            <p><span>Teléfono:</span> <a href="tel://1234567920">+502 5131-4546</a></p>
+            <p><span>Teléfono:</span> <a href="tel://1234567920">+502 5945-5989</a></p>
+            <p><span>Teléfono:</span> <a href="tel://1234567920">+502 7832-3102</a></p>
+             
           </div>
           <div class="col-md-3">
             <p><span>Correo:</span> <a href="mailto:info@yoursite.com">info@juridicojimenez.com</a></p>
