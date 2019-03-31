@@ -46,7 +46,7 @@
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
 	      </div>
-	    </div>
+            </div>
 	  </nav>
     <!-- END nav -->
     
