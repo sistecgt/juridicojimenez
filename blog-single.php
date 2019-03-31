@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
-    <meta name="google-signin-client_id" content="411744099024-oflhqid5udc07nbm16r4dd088uem7po7.apps.googleusercontent.com">
+    <meta name="google-signin-client_id" content="47752963444-v9vc2qni6ailm74kvvap6dgfl74sfcrl.apps.googleusercontent.com">
   </head>
   <body>
     
