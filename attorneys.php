@@ -43,7 +43,7 @@
 	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Servicios Profesionales</a></li>
 	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Documentos</a></li>
 	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctano</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
 	      </div>
 	    </div>
