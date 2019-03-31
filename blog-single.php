@@ -31,14 +31,13 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
-	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerda de nosotros</a></li>
 	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Áreas de práctica</a></li>
 	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>

@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>Jurídico Jiménez</title>
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/e62b8f0f294bacf0a54936c66/e43b88f2d24206c3a51e4d885.js");</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -31,14 +32,13 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">Rony Alexander Jimènez Porras</a>
-	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+                <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Rony Alexander Jimènez Porras</a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio </a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
 	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Servicios Profesionales</a></li>
 	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Documentos</a></li>
@@ -99,7 +99,7 @@
         </div>
       </div>
     </section>
-   	
+    <br>
     <section class="ftco-counter" id="section-counter">
     	<div class="container-fluid">
     		<div class="row d-flex">
@@ -113,9 +113,9 @@
     			<div class="col-md-6 px-5 py-5">
     				<div class="row justify-content-start pt-3 pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">Pregutnas Frecuentes</span>
+<!--		          	<span class="subheading">Pregutnas Frecuentes</span>-->
 		            <h2 class="mb-4">Corporación Jiménez </h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+<!--		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>-->
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -718,6 +718,6 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
-    
   </body>
+  
 </html>
