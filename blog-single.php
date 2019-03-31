@@ -229,6 +229,7 @@
             <div class="sidebar-box ftco-animate">
               <div class="categories">
                   <div class="g-signin2" data-onsuccess="onSignIn"></div>
+                  <a href="#" onclick="signOut();">Sign out</a>
                 <h3>Categories</h3>
                 <li><a href="#">Family Law <span class="ion-ios-arrow-forward"></span></a></li>
                 <li><a href="#">Business Law <span class="ion-ios-arrow-forward"></span></a></li>
@@ -442,6 +443,13 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
-    
+    <script>
+  function signOut() {
+    var auth2 = gapi.auth2.getAuthInstance();
+    auth2.signOut().then(function () {
+      console.log('User signed out.');
+    });
+  }
+</script>
   </body>
 </html>
