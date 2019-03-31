@@ -228,7 +228,7 @@
       </div>
     </section>
 
- <footer class="ftco-footer ftco-bg-dark ftco-section">
+<footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
@@ -281,8 +281,10 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5131-4546, 5945-5989, 7832-3102</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@juridicojimenez.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5131-4546</span></a></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5945-5989</span></a></li>
+                        <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 7832-3102</span></a></li>
+                        <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@juridicojimenez.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -297,7 +299,7 @@
           </div>
         </div>
       </div>
-    </footer>
+</footer> 
     
   
 
