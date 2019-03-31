@@ -74,13 +74,14 @@
             <p><span>Dirección:</span> Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</p>
           </div>
           <div class="col-md-3">
-            <p><span>Teléfono:</span> <a href="tel://1234567920">+502 5131-4546</a></p>
-            <p><span>Teléfono:</span> <a href="tel://1234567920">+502 5945-5989</a></p>
-            <p><span>Teléfono:</span> <a href="tel://1234567920">+502 7832-3102</a></p>
+            <p><span>Teléfono:</span> <a href="tel://+50251314546">+502 5131-4546</a></p>
+            <p><span>Teléfono:</span> <a href="tel://+50259455989">+502 5945-5989</a></p>
+            <p><span>Teléfono:</span> <a href="tel://+50278323102">+502 7832-3102</a></p>
              
           </div>
           <div class="col-md-3">
             <p><span>Correo:</span> <a href="mailto:info@yoursite.com">info@juridicojimenez.com</a></p>
+            <p><span>Correo:</span> <a href="mailto:info@yoursite.com">juridicojimenez015@gmail.com</a></p>
           </div>
           <div class="col-md-3">
             <p><span>Sitio web</span> <a href="#">www.juridicojimenez.com</a></p>
@@ -220,6 +221,7 @@
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5945-5989</span></a></li>
                         <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 7832-3102</span></a></li>
                         <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@juridicojimenez.com</span></a></li>
+                        <li><a href="#"><span class="icon icon-envelope"></span><span class="text">juridicojimenez015@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>

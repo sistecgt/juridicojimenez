@@ -26,6 +26,8 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="411744099024-oflhqid5udc07nbm16r4dd088uem7po7.apps.googleusercontent.com">
   </head>
   <body>
     
@@ -56,6 +58,7 @@
           <div class="col-md-9 ftco-animate pb-5 text-center">
             <h1 class="mb-3 bread">Blog Single</h1>
             <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Inicio <i class="ion-ios-arrow-forward"></i></a></span> <span class="mr-2"><a href="blog.php">Blog <i class="ion-ios-arrow-forward"></i></a></span> <span>Blog Single <i class="ion-ios-arrow-forward"></i></span></p>
+            
           </div>
         </div>
       </div>
@@ -225,6 +228,7 @@
             </div>
             <div class="sidebar-box ftco-animate">
               <div class="categories">
+                  <div class="g-signin2" data-onsuccess="onSignIn"></div>
                 <h3>Categories</h3>
                 <li><a href="#">Family Law <span class="ion-ios-arrow-forward"></span></a></li>
                 <li><a href="#">Business Law <span class="ion-ios-arrow-forward"></span></a></li>
