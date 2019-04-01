@@ -42,7 +42,7 @@
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
 	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Servicios Profesionales</a></li>
 	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Documentos</a></li>
-	          <li class="nav-item"><a href="www.juridicojimenez.com/blogpress" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="blogpress" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
 	      </div>
