@@ -43,7 +43,7 @@
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerda de nosotros</a></li>
 	          <li class="nav-item"><a href="practice-areas.php" class="nav-link">Áreas de práctica</a></li>
 	          <li class="nav-item"><a href="attorneys.php" class="nav-link">Abogados</a></li>
-	          <li class="nav-item active"><a href="blog.php" class="nav-link">Blog</a></li>
+	          <li class="nav-item active"><a href="blogpress" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contáctanos</a></li>
 	        </ul>
 	      </div>
