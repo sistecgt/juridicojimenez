@@ -31,7 +31,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Rony Alexander Jimènez Porras</a>
+	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Rony Alexander Jiménez Porras</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -209,8 +209,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-             <h2>Suscribite a nuestro boletín informativo</h2>
-              <p>Recibiras notificaciones sobre ofertas y más</p>
+             <h2>Suscrébete a nuestro boletín informativo</h2>
+              <p>Recibirás notificaciones sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                      <!-- Begin Mailchimp Signup Form -->
@@ -288,8 +288,8 @@
               <div class="opening-hours">
 <!--              	<h4>Días de trabajo:</h4>-->
               	<p class="pl-3">
-              		<span>Lunes – Viernes : 8 am to 6 pm</span>
-              		<span>Sábados : 8 am to 2 pm</span>
+              		<span>Lunes – Viernes : 8 am a 6 pm</span>
+              		<span>Sábados : 8 am a 2 pm</span>
               	</p>
 <!--              	<h4>Vacations:</h4>
               	<p class="pl-3">

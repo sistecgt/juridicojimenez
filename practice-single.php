@@ -31,7 +31,7 @@
     
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Rony Alexander Jimènez Porras</a>
+	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Rony Alexander Jiménez Porras</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -347,8 +347,8 @@
               <div class="opening-hours">
               	<h4>Opening Days:</h4>
               	<p class="pl-3">
-              		<span>Monday – Friday : 9am to 20 pm</span>
-              		<span>Saturday : 9am to 17 pm</span>
+              		<span>Monday – Friday : 9am a 20 pm</span>
+              		<span>Saturday : 9am a 17 pm</span>
               	</p>
               	<h4>Vacations:</h4>
               	<p class="pl-3">

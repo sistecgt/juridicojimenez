@@ -33,7 +33,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Jurídico Jiménez</a>
+	      <img style="padding-right: 10px;" height="70" src="images/usac.png" alt="USAC"/><a class="navbar-brand" href="index.php">Rony Alexander Jiménez Porras</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -229,7 +229,7 @@
             <div class="sidebar-box ftco-animate">
               <div class="categories">
                   <div class="g-signin2" data-onsuccess="onSignIn"></div>
-                  <a href="#" onclick="signOut();">Sign out</a>
+                  
                 <h3>Categories</h3>
                 <li><a href="#">Family Law <span class="ion-ios-arrow-forward"></span></a></li>
                 <li><a href="#">Business Law <span class="ion-ios-arrow-forward"></span></a></li>
@@ -306,8 +306,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-             <h2>Suscribite a nuestro boletín informativo</h2>
-              <p>Recibiras notificaciones sobre ofertas y más</p>
+             <h2>Suscríbete a nuestro boletín informativo</h2>
+              <p>Recibirás notificaciones sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                      <!-- Begin Mailchimp Signup Form -->
@@ -385,8 +385,8 @@
               <div class="opening-hours">
 <!--              	<h4>Opening Days:</h4>-->
               	<p class="pl-3">
-              		<span>Lunes – Viernes : 9 am to 20 pm</span>
-              		<span>Sábado : 9 am to 17 pm</span>
+              		<span>Lunes – Viernes : 9 am a 20 pm</span>
+              		<span>Sábado : 9 am a 17 pm</span>
               	</p>
 <!--              	<h4>Vacations:</h4>
               	<p class="pl-3">
@@ -417,8 +417,8 @@
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
-      </div>
-    </footer>
+      </div> 
+   </footer>
     
   
 
