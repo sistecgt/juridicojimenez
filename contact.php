@@ -110,7 +110,7 @@
           </div>
 
           <div class="col-lg-6 d-flex">
-          	<div id="map" class="bg-white"></div>
+          	<div id="map" class="bg-white"><div class="mapouter"><div class="gmap_canvas"><iframe width="580" height="460" id="gmap_canvas" src="https://maps.google.com/maps?q=Sexta%20calle%20poniente%20no.%2026%20La%20Antigua%20Guatemala&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com">emojilib.com</a></div><style>.mapouter{position:relative;text-align:right;height:460px;width:580px;}.gmap_canvas {overflow:hidden;background:none!important;height:460px;width:580px;}</style></div></div>
           </div>
         </div>
       </div>
@@ -216,7 +216,7 @@
             	<h2 class="ftco-heading-2">Más información</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</span></li>
+                          <li><span class="icon icon-map-marker"></span><span class="text"><a href="https://goo.gl/maps/cGS8FP7Kdfn">Sexta calle poniente no. 26 La Antigua Guatemala, Sacacatepéquez</a></span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5131-4546</span></a></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 5945-5989</span></a></li>
                         <li><a href="#"><span class="icon icon-phone"></span><span class="text">+502 7832-3102</span></a></li>
@@ -258,7 +258,7 @@
   <script src="js/bootstrap-datepicker.js"></script>
   <script src="js/jquery.timepicker.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+<!--  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>-->
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
     
