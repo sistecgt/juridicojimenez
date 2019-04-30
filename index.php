@@ -384,12 +384,12 @@
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
     				<h3 class="mb-4">Consultas</h3>
-    				<form action="#">
+    				<form>
 	            <div class="form-group">
 	              <input type="text" class="form-control" placeholder="Nombre">
 	            </div>
 	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Correo electrónico">
+	              <input type="text" class="form-control" placeholder="email">
 	            </div>
 	            <div class="form-group">
 	              <input type="text" class="form-control" placeholder="Asunto">
