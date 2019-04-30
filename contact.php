@@ -89,23 +89,13 @@
         </div>
         <div class="row block-9">
           <div class="col-lg-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-5 contact-form">
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Nombre">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Correo">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Asunto">
-              </div>
-              <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Mensaje"></textarea>
-              </div>
-              <div class="form-group">
-                <input type="submit" value="Enviar" class="btn btn-primary py-3 px-5">
-              </div>
-            </form>
+           <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "5825924",
+	formId: "241f9b74-0eab-460d-90bb-a5da2a22b0d0"
+});
+</script>
           
           </div>
 
