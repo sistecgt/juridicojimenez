@@ -89,13 +89,15 @@
         </div>
         <div class="row block-9">
           <div class="col-lg-6 order-md-last d-flex">
-           <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+            <form action="#" class="bg-light p-5 contact-form">
+              <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
 	portalId: "5825924",
 	formId: "241f9b74-0eab-460d-90bb-a5da2a22b0d0"
 });
 </script>
+            </form>
           
           </div>
 
