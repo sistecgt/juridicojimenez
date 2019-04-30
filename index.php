@@ -389,7 +389,7 @@
 	              <input type="text" class="form-control" placeholder="Nombre">
 	            </div>
 	            <div class="form-group">
-                        <input name="email" type="text" class="form-control" placeholder="email">
+                        <input type="email" class="form-control" placeholder="email">
 	            </div>
 	            <div class="form-group">
 	              <input type="text" class="form-control" placeholder="Asunto">
