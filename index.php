@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Jurídico Jiménez</title>
@@ -48,7 +48,7 @@
 	      </div>
 	    </div>
 	  </nav>
-    <!-- END nav -->
+     END nav 
     
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
@@ -113,9 +113,9 @@
     			<div class="col-md-6 px-5 py-5">
     				<div class="row justify-content-start pt-3 pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-<!--		          	<span class="subheading">Pregutnas Frecuentes</span>-->
+		          	<span class="subheading">Pregutnas Frecuentes</span>
 		            <h2 class="mb-4">Corporación Jiménez </h2>
-<!--		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>-->
+		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -281,7 +281,7 @@
 	                </div>
 	              </div>
 	              <div class="back">
-	                <!-- back content -->
+	                 back content 
 	                <blockquote>
 	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
 	                </blockquote>
@@ -305,7 +305,7 @@
 	                </div>
 	              </div>
 	              <div class="back">
-	                <!-- back content -->
+	                 back content 
 	                <blockquote>
 	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
 	                </blockquote>
@@ -329,7 +329,7 @@
 	                </div>
 	              </div>
 	              <div class="back">
-	                <!-- back content -->
+	                 back content 
 	                <blockquote>
 	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
 	                </blockquote>
@@ -353,7 +353,7 @@
 	                </div>
 	              </div>
 	              <div class="back">
-	                <!-- back content -->
+	                 back content 
 	                <blockquote>
 	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
 	                </blockquote>
@@ -600,7 +600,7 @@
               <p>Recibirás notificaciones sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
- <!-- Begin Mailchimp Signup Form -->
+  Begin Mailchimp Signup Form 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#2c2f3a;}
@@ -617,20 +617,20 @@
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	</div>     real people should not fill this in and expect good things - do not remove this or risk form bot signups
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e62b8f0f294bacf0a54936c66_756e506512" tabindex="-1" value=""></div>
     <div class="clear"><input style="background: #e4b02d;" type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
 
-<!--End mc_embed_signup-->
-<!--                  <form action="#" class="subscribe-form">
+End mc_embed_signup
+                  <form action="#" class="subscribe-form">
                     <div class="form-group d-flex">
                       <input type="text" class="form-control" placeholder="Ingrese correo electrónico">
                       <input type="submit" value="Suscribirse" class="submit px-3">
                     </div>
-                  </form>-->
+                  </form>
                 </div>
               </div>
             </div>
@@ -673,16 +673,16 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Horario de atención</h2>
               <div class="opening-hours">
-<!--              	<h4>Días de trabajo:</h4>-->
+              	<h4>Días de trabajo:</h4>
               	<p class="pl-3">
               		<span>Lunes – Viernes : 8 am a 6 pm</span>
               		<span>Sábados : 8 am a 2 pm</span>
               	</p>
-<!--              	<h4>Vacations:</h4>
+              	<h4>Vacations:</h4>
               	<p class="pl-3">
               		<span>All Sunday Days</span>
               		<span>All Official Holidays</span>
-              	</p>-->
+              	</p>
               </div>
             </div>
           </div>
@@ -704,9 +704,9 @@
         <div class="row">
           <div class="col-md-12 text-center">
 
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
- <!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://ssistecgt.com/"</a>
-  Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+            <p> Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://ssistecgt.com/"</a>
+  Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. </p>
           </div>
         </div>
       </div>
@@ -714,7 +714,7 @@
     
   
 
-  <!-- loader -->
+   loader 
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
 
@@ -735,9 +735,9 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
-   <!-- Start of HubSpot Embed Code -->
+    Start of HubSpot Embed Code 
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5825924.js"></script>
-<!-- End of HubSpot Embed Code -->
+ End of HubSpot Embed Code 
   </body>
   
-</html>
+</html>-->
