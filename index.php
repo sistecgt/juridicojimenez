@@ -1,4 +1,4 @@
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Jurídico Jiménez</title>
@@ -740,4 +740,4 @@ End mc_embed_signup
  End of HubSpot Embed Code 
   </body>
   
-</html>-->
+</html>
