@@ -77,7 +77,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<span class="subheading">Pregutnas Frecuentes</span>
 		            <h2 class="mb-4">Corporación Jiménez </h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+		            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -87,7 +87,7 @@
 		              	<div class="icon d-flex justify-content-center align-items-center">
 		              		<span class="flaticon-lawyer"></span>
 		              	</div>
-		                <strong class="number" data-number="500">0</strong>
+		                <strong class="number" data-number="10">0</strong>
 		                <span>Abogados Expertos</span>
 		              </div>
 		            </div>
@@ -142,28 +142,28 @@
             <div class="icon"><span class="flaticon-auction"></span></div>
             <div class="media-body">
                <h3 class="heading mb-3"><a href="#">Consultas</a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Corporación Jiménez</a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-money"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Precios acorde el caso</a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="ion-ios-help-circle-outline"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Revise sus procesos legales</a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
         </div>
@@ -183,22 +183,14 @@
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
     				<h3 class="mb-4">Consultas</h3>
-    				<form action="#">
-	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Nombre">
-	            </div>
-	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Correo electrónico">
-	            </div>
-	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Asunto">
-	            </div>
-	            <div class="form-group">
-	              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Mensaje"></textarea>
-	            </div>
-	            <div class="form-group">
-	              <input type="submit" value="Enviar" class="btn btn-primary">
-	            </div>
+    				<form>
+	                         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "5825924",
+	formId: "241f9b74-0eab-460d-90bb-a5da2a22b0d0"
+});
+</script>
 	          </form>
     			</div>
     		</div>
@@ -224,9 +216,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -238,9 +230,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -252,9 +244,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -266,9 +258,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -280,9 +272,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>

@@ -72,28 +72,28 @@
             <div class="icon"><span class="flaticon-auction"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Consultas</a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Corporación Jiménez </a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-money"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Precios acorde al caso </a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="ion-ios-help-circle-outline"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="#">Revise sus procesos legales</a></h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
             </div>
           </div>
         </div>
@@ -115,7 +115,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<span class="subheading">Pregutnas Frecuentes</span>
 		            <h2 class="mb-4">Corporación Jiménez </h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+		            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -125,7 +125,7 @@
 		              	<div class="icon d-flex justify-content-center align-items-center">
 		              		<span class="flaticon-lawyer"></span>
 		              	</div>
-		                <strong class="number" data-number="500">0</strong>
+		                <strong class="number" data-number="10">0</strong>
 		                <span>Abogados Expertos</span>
 		              </div>
 		            </div>
@@ -173,7 +173,7 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate">
-          	<span class="subheading">Servicios Profesionales</span>
+          	<span class="subheading">Catálogo</span>
             <h2 class="mb-4">Servicios Profesionales</h2>
           </div>
         </div>
@@ -276,20 +276,20 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/person_1.jpg);">
 	                <div class="box">
-	                  <h2>Richard Anderson</h2>
-	                  <p>Civil Lawyer</p>
+	                  <h2>Lorem ipsum</h2>
+	                  <p>Abogado</p>
 	                </div>
 	              </div>
 	              <div class="back">
-	                 back content 
+	                 Lorem ipsum 
 	                <blockquote>
-	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+	                  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.&rdquo;</p>
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
 	                    <img src="images/person_1.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center">Richard Anderson <span class="position">Civil Lawyer</span></div>
+	                  <div class="name align-self-center">Lorem ipsum <span class="position">Abogado</span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -300,20 +300,20 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/person_2.jpg);">
 	                <div class="box">
-	                  <h2>Jefford Maxillin</h2>
-	                  <p>Business Lawyer</p>
+	                  <h2>Lorem ipsum</h2>
+	                  <p>Abogado</p>
 	                </div>
 	              </div>
 	              <div class="back">
-	                 back content 
+	                 Lorem ipsum
 	                <blockquote>
-	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+	                  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.&rdquo;</p>
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
 	                    <img src="images/person_2.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center">Jefford Maxillin<span class="position">Business Lawyer</span></div>
+	                  <div class="name align-self-center">Lorem ipsum<span class="position">Abogado</span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -324,20 +324,20 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/person_3.jpg);">
 	                <div class="box">
-	                  <h2>Carlos Obing</h2>
-	                  <p>Criminal Defense</p>
+	                  <h2>Lorem ipsum</h2>
+	                  <p>Abogado</p>
 	                </div>
 	              </div>
 	              <div class="back">
 	                 back content 
 	                <blockquote>
-	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+	                  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.&rdquo;</p>
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
 	                    <img src="images/person_3.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center">Carlos Obing <span class="position">Criminal Defense</span></div>
+	                  <div class="name align-self-center">Lorem ipsum <span class="position">Abogado</span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -348,20 +348,20 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/person_4.jpg);">
 	                <div class="box">
-	                  <h2>Nathan Smith</h2>
-	                  <p>Insurance Lawyer</p>
+	                  <h2>Lorem ipsum</h2>
+	                  <p>Abogado</p>
 	                </div>
 	              </div>
 	              <div class="back">
-	                 back content 
+	                 Lorem ipsum 
 	                <blockquote>
-	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+	                  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.&rdquo;</p>
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
 	                    <img src="images/person_4.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center">Nathan Smith <span class="position">Insurance Lawyer</span></div>
+	                  <div class="name align-self-center">Lorem ipsum <span class="position">Abogado</span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -417,9 +417,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -431,9 +431,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -445,9 +445,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -459,9 +459,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -473,9 +473,9 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Client</span>
+                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <p class="name">Lorem ipsum</p>
+                    <span class="position">Cliente</span>
                   </div>
                 </div>
               </div>
@@ -485,7 +485,7 @@
       </div>
     </section>
 
-    <section class="ftco-section bg-light">
+<!--    <section class="ftco-section bg-light">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
@@ -553,10 +553,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
 		
 
-    <section class="ftco-gallery">
+<!--    <section class="ftco-gallery">
     	<div class="container-wrap">
     		<div class="row no-gutters">
 					<div class="col-md-3 ftco-animate">
@@ -589,7 +589,7 @@
 					</div>
         </div>
     	</div>
-    </section>
+    </section>-->
 
     <section class="ftco-section-parallax bg-secondary">
       <div class="parallax-img d-flex align-items-center">
@@ -600,7 +600,7 @@
               <p>Recibirás notificaciones sobre ofertas y más</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
-  Begin Mailchimp Signup Form 
+  <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#2c2f3a;}
@@ -617,20 +617,14 @@
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>     real people should not fill this in and expect good things - do not remove this or risk form bot signups
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e62b8f0f294bacf0a54936c66_756e506512" tabindex="-1" value=""></div>
     <div class="clear"><input style="background: #e4b02d;" type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
 
-End mc_embed_signup
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Ingrese correo electrónico">
-                      <input type="submit" value="Suscribirse" class="submit px-3">
-                    </div>
-                  </form>
+<!--End mc_embed_signup-->
                 </div>
               </div>
             </div>

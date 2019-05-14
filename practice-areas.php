@@ -66,7 +66,7 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate">
-          	<span class="subheading">Servicios Profesionales</span>
+          	<span class="subheading">Catálogo</span>
             <h2 class="mb-4">Servicios Profesionales</h2>
           </div>
         </div>
@@ -183,22 +183,14 @@
     			</div>
     			<div class="half p-3 p-md-5 ftco-animate">
     				<h3 class="mb-4 font-weight-bold">Consultas</h3>
-    				<form action="#">
-	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Nombre">
-	            </div>
-	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Correo electrónico">
-	            </div>
-	            <div class="form-group">
-	              <input type="text" class="form-control" placeholder="Asunto">
-	            </div>
-	            <div class="form-group">
-	              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Mensaje"></textarea>
-	            </div>
-	            <div class="form-group">
-	              <input type="submit" value="Enviar" class="btn btn-primary">
-	            </div>
+    				<form>
+	                         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "5825924",
+	formId: "241f9b74-0eab-460d-90bb-a5da2a22b0d0"
+});
+</script>
 	          </form>
     			</div>
     		</div>
