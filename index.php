@@ -298,10 +298,10 @@
         	<div class="col-lg-3 col-sm-6">
         		<div class="block-2 ftco-animate">
 	            <div class="flipper">
-	              <div class="front" style="background-image: url(/images/person_2.jpg);">
+	              <div class="front" style="background-image: url(/images/sec.jpg);">
 	                <div class="box">
-	                  <h2>Lorem ipsum</h2>
-	                  <p>Abogado</p>
+	                  <h2>Zoila Eluvia Vivar Najera</h2>
+	                  <p>Secretaria</p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -311,9 +311,9 @@
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
-	                    <img src="images/person_2.jpg" alt="">
+                              <img src="images/sec.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center">Lorem ipsum<span class="position">Abogado</span></div>
+	                  <div class="name align-self-center">Zoila Eluvia Vivar Najera<span class="position">Secretaria</span></div>
 	                </div>
 	              </div>
 	            </div>
