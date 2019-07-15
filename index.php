@@ -266,18 +266,18 @@
     	<div class="container-fluid">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-          	<span class="subheading">Nuestros Profesionales </span>
-            <h2 class="mb-4">Nuestros Abogados</h2>
+          	<span class="subheading">Staff</span>
+            <h2 class="mb-4">Nuestros Profesionales</h2>
           </div>
         </div>
         <div class="row">
         	<div class="col-lg-3 col-sm-6">
         		<div class="block-2 ftco-animate">
 	            <div class="flipper">
-	              <div class="front" style="background-image: url(/images/person_1.jpg);">
+	              <div class="front" style="background-image: url(/images/rony.jpg);">
 	                <div class="box">
-	                  <h2>Lorem ipsum</h2>
-	                  <p>Abogado</p>
+	                  <h2>Rony Alexander Jiménez Guerrero</h2>
+	                  <p>Licenciado</p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -287,9 +287,9 @@
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
-	                    <img src="images/person_1.jpg" alt="">
+                              <img src="images/rony.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center">Lorem ipsum <span class="position">Abogado</span></div>
+	                  <div class="name align-self-center">Rony Alexander Jiménez Guerrero <span class="position">Licenciado</span></div>
 	                </div>
 	              </div>
 	            </div>
