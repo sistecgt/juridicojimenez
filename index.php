@@ -274,7 +274,7 @@
         	<div class="col-lg-3 col-sm-6">
         		<div class="block-2 ftco-animate">
 	            <div class="flipper">
-	              <div class="front" style="background-image: url(/images/rony.jpg);">
+	              <div class="front" style="background-image: url(/images/rony.jpg); background-size: 80%">
 	                <div class="box">
 	                  <h2>Rony Alexander Jiménez Guerrero</h2>
 	                  <p>Licenciado</p>
