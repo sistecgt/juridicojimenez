@@ -104,10 +104,10 @@
     	<div class="container-fluid">
     		<div class="row d-flex">
     			<div class="col-md-6 d-flex">
-    				<div class="img d-flex align-self-stretch align-items-center justify-content-center" style="background-image:url(images/about.jpg);">
-    					<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+    				<div class="img d-flex align-self-stretch align-items-center justify-content-center" style="background-image:url(images/rony_1.jpg); background-size: 65%;">
+<!--    					<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
     						<span class="icon-play"></span>
-    					</a>
+    					</a>-->
     				</div>
     			</div>
     			<div class="col-md-6 px-5 py-5">
