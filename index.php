@@ -337,7 +337,7 @@
 	                  <div class="image mr-3 align-self-center">
                             <img src="images/lic_luis.jpg" alt=""/>
 	                  </div>
-	                  <div class="name align-self-center">Lorem ipsum <span class="position">Abogado</span></div>
+	                  <div class="name align-self-center">Luis Enrique Méndez Alcor <span class="position">Licenciado</span></div>
 	                </div>
 	              </div>
 	            </div>
