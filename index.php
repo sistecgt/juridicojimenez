@@ -335,7 +335,7 @@
 	                </blockquote>
 	                <div class="author d-flex">
 	                  <div class="image mr-3 align-self-center">
-	                    <img src="images/lic_luis.jpg" alt="">
+                            <img src="images/lic_luis.jpg" alt=""/>
 	                  </div>
 	                  <div class="name align-self-center">Lorem ipsum <span class="position">Abogado</span></div>
 	                </div>
