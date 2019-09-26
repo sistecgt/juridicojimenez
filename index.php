@@ -322,7 +322,7 @@
         	<div class="col-lg-3 col-sm-6">
         		<div class="block-2 ftco-animate">
 	            <div class="flipper">
-	              <div class="front" style="background-image: url(/images/sec.jpg);">
+	              <div class="front" style="background-image: url(/images/lic_luis.jpg);">
 	                <div class="box">
 	                  <h2>Luis Enrique Méndez Alcor</h2>
 	                  <p>Licenciado</p>
